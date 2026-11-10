@@ -8,18 +8,18 @@ By the end of this lab my user stories have acceptance criteria and my README sh
 ### Sprint backlog
 | Issue | Task | Status |
 |-------|------|--------|
-| #1 | Add acceptance criteria to each user story | To do |
-| #2 | Number the requirements and link each story to one | To do |
-| #3 | Add structure and roadmap to the README | To do |
+| #1 | Add acceptance criteria to each user story | Done |
+| #2 | Number the requirements and link each story to one | Done |
+| #3 | Add structure and roadmap to the README | Done |
 
 ### Daily standup notes
-- Standup 1: [what I will do now / what could block me]
-- Standup 2: [what I did / what is next / any blocker]
+- Standup 1: I will do issue #1 and #2. May not have enough time to do issue #3 today.
+- Standup 2: I completed issue #1 and #2. I will complete issue #3 today.
 
 ### Sprint review
-[What did you finish? What did you show a classmate?]
+I have completed issue #1, #2 and #3. Issue #5, #6 and #7 is still in the backlog
 
 ### Retrospective
-- What went well:
-- What was difficult:
-- What I will change next time:
+- What went well: The task was easy to do.
+- What was difficult: Initial git exploration takes some time.
+- What I will change next time: Task might become easier to do next time.
