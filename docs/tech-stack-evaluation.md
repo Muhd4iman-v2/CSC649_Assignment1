@@ -33,8 +33,16 @@ Weighted score = weight x score. Add them up for each option.
 | **Total (weighted)**               |        |    65   |    90   |   109   |
 
 ## Decision record
-- **Context:** [what problem, and what limits (time, skills, cost)]
-- **Decision:** [the option you chose]
-- **Reasons:** [2 to 3 reasons, linked to your requirements and the matrix]
-- **Consequences:** [what becomes easy, what becomes hard]
-- **Risks and next review:** [what could go wrong, and when you will check again]
+- **Context:** [The MyJPJ eAduan system faces an accumulating backlog of pending traffic complaints due to slow manual officer reviews and high user submission rates. The system must handle high volumes of user-submitted photos and videos for automated offense classification, clarity feedback, metadata extraction, and priority scoring. The project constraints include tight deadline, current developer skills, budget limitations for cloud compute, and the need to prevent system lag during complaint surges]
+- **Decision:** [Option C: MyJPJ with Mobile Edge AI for initial feedback and third-party AI cloud server for deeper AI analysis]
+- **Reasons:** [
+    1. Optimized Performance: Using a hybrid approach optimizes both the instant feedback speed expected during the initial submission stage and provides the extra computational resources required for deeper server-side media analysis
+    2.  Scalability: Leveraging a third-party AI cloud server allows JPJ from physical facility constraints, making it significantly easier to scale resources up or down during peak traffic complaint surges in the future.
+    3. Deploying dedicated on-premise infrastructure would delay operational deployment, as setting up and procuring JPJ-owned AI servers from scratch takes considerable time, whereas third-party cloud infrastructure is ready to deploy almost immediately.]
+- **Consequences:** [
+    - What becomes easy: Public user will receive immediate, responsive UI feedback on their mobile devices, while cloud server compute remains reserved strictly for evaluating clear, strong evidence.
+    - What becomes hard: Developing, testing, and maintaining two separate AI model pipelines.]
+- **Risks and next review:** [
+    - what could go wrong: Low-end smartphone hardware may struggle with local Mobile Edge AI inference speed, and utilizing third-party cloud servers may expose citizen traffic evidence to data privacy or security risks.
+    - Next Review: Benchmark edge model execution speed on budget devices and evaluate cloud security protocols during the initial prototype testing phase.
+    ]
