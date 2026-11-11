@@ -23,3 +23,27 @@ I have completed issue #1, #2 and #3. Issue #5, #6 and #7 is still in the backlo
 - What went well: The task was easy to do.
 - What was difficult: Initial git exploration takes some time.
 - What I will change next time: Task might become easier to do next time.
+
+## Sprint 2 (Week 4 lab)
+
+### Sprint goal
+By the end of this lab my problem statement has evidence, add speaciallized tech and outline the tech explainantion
+
+### Sprint backlog
+| Issue | Task | Status |
+|-------|------|--------|
+| #5 | Add evidence to the problem statement | To Do |
+| #6 | Choose the specialized technology and list 3 sources | To Do |
+| #7 | Outline the technology explanation | To Do |
+
+### Daily standup notes
+- Standup 1: I will do issue #5, #6 and #7 today.
+- Standup 2: 
+
+### Sprint review
+Sprint Review Here
+
+### Retrospective
+- What went well: 
+- What was difficult: 
+- What I will change next time: 
