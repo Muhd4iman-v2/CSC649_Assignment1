@@ -10,6 +10,7 @@ The current MyJPJ eAduan feature severely impacts JPJ officers and public witnes
 - [Requirements](docs/requirements.md)
 - [User stories](docs/user-stories.md)
 - [Sprint log](docs/sprint-log.md)
+- [Tech Stack Evaluations](docs/tech-stack-evaluation.md) 
 
 ## Project structure
 ```
@@ -35,6 +36,7 @@ The current MyJPJ eAduan feature severely impacts JPJ officers and public witnes
 
 ## Status
 Sprint 1 completed (CSC649, Week 3)
+Sprint 2 in progress (CSC649, Week 4)
 
 ## Author
 MUHAMMAD AIMAN BIN KAMARUL ARIFFIN LO
