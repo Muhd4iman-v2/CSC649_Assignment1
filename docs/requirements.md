@@ -2,7 +2,7 @@
 
 ## Functional requirements (what the system must DO)
 1. FR1: The system shall analyze pictures and videos uploaded by public users to automatically classify the offense category, extract missing report details, and evaluate initial evidence clarity.
-2. FR2: The system shall evaluate submitted evidence on an AI server and categorize cases into "Strong Evidence" (flagged as high priority) and "Weak Evidence" (flagged as low priority)
+2. FR2: The system shall evaluate submitted evidence on an AI server and categorize cases into "Strong Evidence" (flagged as high priority) and "Weak Evidence" (flagged as low priority).
 3. FR3: The system shall provide immediate feedback to public witnesses regarding evidence quality and automatically prompt users to re-upload stronger evidence when their report is flagged as low priority.
 4. FR4: The system shall perform deep media analysis on strong evidences to generate an offense confidence score, extract embedded file metadata, and detect subtle or secondary unidentified traffic offenses to assist JPJ officer decision-making.
 5. FR5: The system shall require explicit verification by a JPJ officer before confirming a violation or issuing a legal summons.

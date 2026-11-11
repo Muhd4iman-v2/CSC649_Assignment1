@@ -32,7 +32,7 @@ By the end of this lab my problem statement has evidence, add speaciallized tech
 ### Sprint backlog
 | Issue | Task | Status |
 |-------|------|--------|
-| #5 | Add evidence to the problem statement | To Do |
+| #5 | Add evidence to the problem statement | In Progress |
 | #6 | Choose the specialized technology and list 3 sources | To Do |
 | #7 | Outline the technology explanation | To Do |
 
