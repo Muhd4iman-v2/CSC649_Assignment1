@@ -4,11 +4,21 @@
 Computer Vision-Assisted MyJPJ eAduan.
 
 ## Requirements that drive the decision
-- FR1: The system shall analyze pictures and videos uploaded by public users to automatically classify the offense category, extract missing report details, and evaluate initial evidence clarity.
-- FR4: The system shall evaluate submitted evidence on an AI server and categorize cases into "Strong Evidence" (flagged as high priority) and "Weak Evidence" (flagged as low priority).
-- NFR1: The system shall analyze uploaded pictures and videos to produce initial offense category suggestions and clarity feedback within 1 minute of submission.
-- NFR2: The system shall process continuous high volumes of public traffic complaints without significant system lag or performance degradation.
-- NFR5: The system shall maintain a precision of at least 80% when declaring the offense confidence score during media evaluation.
+- **FR1:** The system shall analyze pictures and videos uploaded by public users to automatically classify the offense category, extract missing report details, and evaluate initial evidence clarity.
+- **FR4:** The system shall evaluate submitted evidence on an AI server and categorize cases into "Strong Evidence" (flagged as high priority) and "Weak Evidence" (flagged as low priority).
+- **NFR1:** The system shall analyze uploaded pictures and videos to produce initial offense category suggestions and clarity feedback within 1 minute of submission.
+- **NFR2:** The system shall process continuous high volumes of public traffic complaints without significant system lag or performance degradation.
+- **NFR5:** The system shall maintain a precision of at least 80% when declaring the offense confidence score during media evaluation.
+
+## Chosen Technology
+**Computer Vision:** a specialized subfield of Artificial Intelligence (AI) that enables computational systems to process, analyze, and interpret visual information such as digital images and video streams.
+
+## Credible Sources
+- Szeliski, R. (2022). Computer vision: Algorithms and applications (2nd ed.). Springer. https://doi.org/10.1007/978-3-030-34372-9 
+- O'Shea, K., & Nash, R. (2015). An introduction to convolutional neural networks. arXiv. https://doi.org/10.48550/arXiv.1511.08458
+- Nazir, A., & Wani, M. A. (2023). You Only Look Once - Object detection models: A review. 2023 10th International Conference on Computing for Sustainable Global Development (INDIACom), 1088–1095. https://ieeexplore.ieee.org/abstract/document/10112271
+- Girshick, R. (2015). Fast R-CNN. 2015 IEEE International Conference on Computer Vision (ICCV), 1440–1448. https://doi.org/10.1109/ICCV.2015.169 
+- Howard, A. G., Zhu, M., Chen, B., Kalenichenko, D., Wang, W., Weyand, T., Andreetto, M., & Adam, H. (2017). MobileNets: Efficient convolutional neural networks for mobile vision applications. arXiv. https://doi.org/10.48550/arXiv.1704.04861 
 
 ## Options
 - Option A: MyJPJ with JPJ-owned AI server for both initial feedback and deeper AI analysis (YOLO +  Fast R-CNN)
