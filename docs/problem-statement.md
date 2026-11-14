@@ -15,5 +15,8 @@
 - **Delayed enforcement action**: Case bottlenecks postpone verification, delaying legal enforcement actions, court proceedings, or the issuance of summonses.
 - **Overlooked evidence**: Manual reviews risk missing subtle details, embedded metadata, or additional unidentified traffic offenses contained within media files.
 
-## Problem statement (3 to 5 sentences)
+## Problem statement
 The current MyJPJ eAduan feature severely impacts JPJ officers and public witnesses due to an entirely manual report review process. Rigid offense categories force witnesses to make confusing choices, increasing submission errors and leading to prolonged wait times without feedback. Because incoming report volume constantly exceeds human review capacity, a significant number of complaints remain stuck in a pending state. Consequently, this accelerates a mounting case backlog for JPJ and delays necessary legal proceedings and summons issuance.
+
+## Problem Evidence
+There are multiple users who complain on social media such as Threads, Facebook and Reddit about their dissatisfaction with MyJPJ eAduan application regarding lack of clear status notifications, rigid category selection, and a bad UI/UX experience.
