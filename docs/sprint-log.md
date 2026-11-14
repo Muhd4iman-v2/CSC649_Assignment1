@@ -17,7 +17,7 @@ By the end of this lab my user stories have acceptance criteria and my README sh
 - Standup 2: I completed issue #1 and #2. I will complete issue #3 today.
 
 ### Sprint review
-I have completed issue #1, #2 and #3. Issue #5, #6 and #7 is still in the backlog
+I have completed issue #1, #2 and #3. Issue #5, #6 and #7 is still in the backlog.
 
 ### Retrospective
 - What went well: The task was easy to do.
@@ -32,18 +32,18 @@ By the end of this lab my problem statement has evidence, add speaciallized tech
 ### Sprint backlog
 | Issue | Task | Status |
 |-------|------|--------|
-| #5 | Add evidence to the problem statement | To Do |
-| #6 | Choose the specialized technology and list 3 sources | To Do |
+| #5 | Add evidence to the problem statement | Done |
+| #6 | Choose the specialized technology and list 3 sources | Done |
 | #7 | Outline the technology explanation | Done |
 
 ### Daily standup notes
 - Standup 1: I will do issue #5, #6 and #7 today.
-- Standup 2: 
+- Standup 2: I will finish issue #6 and #7 today.
 
 ### Sprint review
-Sprint Review Here
+I have completed issue #5, #6 and #7. There are no more issue in the backlog for now.
 
 ### Retrospective
-- What went well: 
-- What was difficult: 
-- What I will change next time: 
+- What went well: Overall performing the required task was easy
+- What was difficult: Finding a creditable sources can be quite challenging and take a bit of learning curve.
+- What I will change next time: Try to complete more within the same day.
