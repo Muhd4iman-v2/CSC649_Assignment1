@@ -23,6 +23,7 @@ The current MyJPJ eAduan feature severely impacts JPJ officers and public witnes
 |   |-- requirements.md
 |   |-- user-stories.md
 |   |-- sprint-log.md
+|   |-- tech-stack-evaluation.md
 |-- src/
     |-- README.md      (code will go here)
 ```
