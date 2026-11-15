@@ -35,8 +35,8 @@ The current MyJPJ eAduan feature severely impacts JPJ officers and public witnes
 - [ ] First prototype (later in the semester)
 
 ## Status
-Sprint 1 completed (CSC649, Week 3)
-Sprint 2 in progress (CSC649, Week 4)
+- Sprint 1 completed (CSC649, Week 3)
+- Sprint 2 completed (CSC649, Week 4)
 
 ## Author
 MUHAMMAD AIMAN BIN KAMARUL ARIFFIN LO
