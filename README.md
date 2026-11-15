@@ -31,7 +31,7 @@ The current MyJPJ eAduan feature severely impacts JPJ officers and public witnes
 - [x] Problem statement written
 - [x] Requirements numbered and linked to user stories
 - [x] User stories have acceptance criteria
-- [ ] Specialized technology chosen and explained
+- [x] Specialized technology chosen and explained
 - [ ] First prototype (later in the semester)
 
 ## Status
